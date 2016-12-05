@@ -1,0 +1,33 @@
+# ##############################################################################
+# iCEcube PCF
+# Version:            2016.02.27810
+# File Generated:     Nov 18 2016 16:04:29
+# Family & Device:    iCE40HX1K
+# Package:            TQ144
+# ##############################################################################
+
+set_io clock_12mhz 21
+
+set_io dcd 1
+set_io dsr 2
+set_io dtr 3
+set_io cts 4
+set_io rts 7
+set_io tx 8
+set_io rx 9
+
+set_io led_top 99
+set_io led_left 96
+set_io led_center 95
+set_io led_right 98
+set_io led_bottom 97
+
+set_io uart_uc_rx 112 -pullup no
+set_io uart_uc_tx 113 -pullup no
+set_io uart_uc_rts 114 -pullup no
+set_io uart_uc_cts 115 -pullup no
+
+set_io led0 116 -pullup no
+set_io led1 117 -pullup no
+set_io led2 118 -pullup no
+set_io led3 119 -pullup no

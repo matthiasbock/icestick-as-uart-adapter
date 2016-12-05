@@ -1,0 +1,17 @@
+# Thumbnail database
+Thumbs.db
+
+# Logs, intermediate files and binaries
+*_Implmnt/
+*.log
+synlog.tcl
+
+# Temporary files
+.*.swp
+*~
+*.bak
+
+# Eclipse
+.project
+.settings/
+

@@ -1,0 +1,10 @@
+*.vhd: text
+*.vhdl: text
+*.v: text
+*.xcf: text
+*.pcf: text
+*.lpc: text
+*.prj: text
+*.project: text
+*.jpg: binary
+*.png: bibary
